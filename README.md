@@ -2,6 +2,8 @@
 
 Como aprendiz em Desenvolvimento Web, estou dando meus primeiros passos com HTML, CSS,Javascript e React, entusiasmada para aprender mais e expandir minhas habilidades. Compartilho aqui meus projetos e descobertas enquanto trilho o caminho do conhecimento.💻🚀
 
+![octocat-1688434459442](https://github.com/gesalamanca/gesalamanca/assets/65085890/1d310011-a82d-4ffe-9412-d613dc91c328.png)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Geovana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geovana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
