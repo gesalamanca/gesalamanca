@@ -1,6 +1,6 @@
 ### Hi there 👋  Sou Geovana Salamanca!
 
-Como aprendiz em Desenvolvimento Web, estou dando meus primeiros passos com HTML, CSS,Javascript e React, entusiasmada para aprender mais e expandir minhas habilidades. Compartilho aqui meus projetos e descobertas enquanto trilho o caminho do conhecimento.💻🚀
+🚀 Em constante aprendizado no desenvolvimento web, atuando tanto no front-end (HTML, CSS, JavaScript, React) quanto no back-end com foco em consumo e criação de APIs. Aqui você encontra meus projetos, testes e experimentos enquanto desenvolvo minhas habilidades.
 
 
 <div style="display: inline_block"><br>
@@ -8,6 +8,7 @@ Como aprendiz em Desenvolvimento Web, estou dando meus primeiros passos com HTML
   <img align="center" alt="Geovana-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geovana-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geovana-js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
 </div><br>
 
 <div> 
